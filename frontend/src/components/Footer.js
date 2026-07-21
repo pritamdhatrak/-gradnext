@@ -37,7 +37,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 gradnext. All rights reserved.</p>
+          <p> All rights reserved.</p>
         </div>
       </div>
     </footer>
